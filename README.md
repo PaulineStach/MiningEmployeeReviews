@@ -6,4 +6,4 @@ In my final project (Mining Employee Reviews: What Glassdoor.com Reveals About C
 
 **ERD:**
 
-![alt tag](C:\Users\pauli\Documents\NCI\Project\Glassdoor\Code\Numeric Data\Plots/wordcloudnetflix.jpeg)
+![Test Image 1](netflixsentimentt.jpeg)
