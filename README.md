@@ -6,4 +6,4 @@ In my final project (Mining Employee Reviews: What Glassdoor.com Reveals About C
 
 **ERD:**
 
-![Test Image 1](netflixsentimentt.jpeg)
+![Test Image 1](netflixsentimentt.png)
